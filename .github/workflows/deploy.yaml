@@ -1,4 +1,4 @@
-name: 'Terraform Apply For Storage accounts'
-
-on: 
+on:
   workflow_dispatch:
+    branches:
+      - feature
