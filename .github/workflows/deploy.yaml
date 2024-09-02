@@ -1,0 +1,4 @@
+name: 'Terraform Apply For Storage accounts'
+
+on: 
+  workflow_dispatch:
